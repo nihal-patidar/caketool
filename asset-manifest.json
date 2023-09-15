@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/caketool/static/css/main.8a0141ce.css",
+    "main.js": "/caketool/static/js/main.06907437.js",
+    "static/media/bg13.jpg": "/caketool/static/media/bg13.11810fadb7250728c737.jpg",
+    "static/media/incre.png": "/caketool/static/media/incre.97657695de22a6ce0919.png",
+    "static/media/freinds.jpg": "/caketool/static/media/freinds.ba6b889e3269baeb62fc.jpg",
+    "index.html": "/caketool/index.html",
+    "main.8a0141ce.css.map": "/caketool/static/css/main.8a0141ce.css.map",
+    "main.06907437.js.map": "/caketool/static/js/main.06907437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0141ce.css",
+    "static/js/main.06907437.js"
+  ]
+}
